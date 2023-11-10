@@ -1,0 +1,11 @@
+{
+  "name": "whistle.local-rules",
+  "version": "0.1.0",
+  "description": "Extend rules with local files in real time.",
+  "main": "index.js",
+  "author": "BackRunner",
+  "license": "MIT",
+  "dependencies": {
+    "chokidar": "^3.5.3"
+  }
+}

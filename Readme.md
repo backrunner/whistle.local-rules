@@ -6,6 +6,14 @@ Extend rules with local files in real time.
 
 ## Usage
 
+### Install
+
+```bash
+$ npm i whistle.local-rules -g
+```
+
+### Config
+
 ```
 * whistle.local-rules://ABSOLUTE_PATH_TO_RULES_FILE
 ```
